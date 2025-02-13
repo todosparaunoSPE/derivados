@@ -11,6 +11,11 @@ import pandas as pd
 import plotly.express as px
 from scipy.stats import norm
 
+
+# Configuración inicial de la app
+st.set_page_config(page_title="Análisis de Derivados - PENSIONISSSTE", layout="wide")
+
+
 # Estilo de fondo
 page_bg_img = """
 <style>
@@ -28,8 +33,8 @@ background-size:16px 16px;
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
 
-# Configuración inicial de la app
-st.set_page_config(page_title="Análisis de Derivados - PENSIONISSSTE", layout="wide")
+
+
 st.title("📈 Análisis de Derivados para PENSIONISSSTE")
 st.write("**Desarrollado por Javier Horacio Pérez Ricárdez**")
 
