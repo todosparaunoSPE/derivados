@@ -126,8 +126,8 @@ else:
 
 
 st.sidebar.markdown(
-    '<a href="https://simuladordepensiones-9nowee4yfymgo3m6ak3enq.streamlit.app/
-" target="_blank">Otro ejemplo</a>',
+    <a href="https://simuladordepensiones-9nowee4yfymgo3m6ak3enq.streamlit.app/
+" target="_blank">Otro ejemplo</a>,
     unsafe_allow_html=True
 
 # Copyright
