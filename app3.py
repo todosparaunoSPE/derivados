@@ -123,5 +123,12 @@ if dias_vencimiento <= dias_renovación:
 else:
     st.info("📊 Todavía hay tiempo antes del vencimiento de los futuros.")
 
+
+
+st.sidebar.markdown(
+    '<a href="https://simuladordepensiones-9nowee4yfymgo3m6ak3enq.streamlit.app/
+" target="_blank">Otro ejemplo</a>',
+    unsafe_allow_html=True
+
 # Copyright
 st.sidebar.write("© 2025 Javier Horacio Pérez Ricárdez - Todos los derechos reservados.")
