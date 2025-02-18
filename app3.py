@@ -125,7 +125,7 @@ else:
 
 
 
-st.sidebar.markdown("[Visita mi página web](https://www.ejemplo.com)")
+st.sidebar.markdown("[Otro ejemplo](https://simuladordepensiones-9nowee4yfymgo3m6ak3enq.streamlit.app/)")
 
 # Copyright
 st.sidebar.write("© 2025 Javier Horacio Pérez Ricárdez - Todos los derechos reservados.")
