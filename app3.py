@@ -125,10 +125,7 @@ else:
 
 
 
-st.sidebar.markdown(
-    <a href="https://simuladordepensiones-9nowee4yfymgo3m6ak3enq.streamlit.app/
-" target="_blank">Otro ejemplo</a>,
-    unsafe_allow_html=True
+st.sidebar.markdown("[Visita mi página web](https://www.ejemplo.com)")
 
 # Copyright
 st.sidebar.write("© 2025 Javier Horacio Pérez Ricárdez - Todos los derechos reservados.")
